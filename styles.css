@@ -1,0 +1,119 @@
+html {
+    background-color: white;
+}
+.colors {
+    display: inline-flex;
+    text-align: center;
+    width: 100%;
+    
+}
+header {
+    color: white;
+    display: flex;
+    text-transform: uppercase;
+    padding-left: 30px;
+}
+.bela {
+    background-color: #005F8F;
+    border-radius: 10px;
+    padding: 5px;
+}
+a {
+    color: #005F8F;
+}
+a:hover {
+    color: #ADE4FF;
+}
+.breadcrumb {
+    display: flex;
+    text-decoration: none;
+}
+.attribute, .location {
+    padding: 10px;
+    font-size: 15px;
+    text-decoration: none;
+    
+}
+.color {
+    text-transform: uppercase;
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+}
+.colordiv {
+    padding: 140px 150px;
+    width: 100%;
+    font-size: 15px;
+}
+#one {
+    background-color: #EBEBEB;
+}
+#two {
+    background-color: #ADE4FF;
+}
+#three {
+    background-color: #005F8F;
+    color: white;
+}
+.fonts {
+    margin-top: 30px;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 1px;
+    border-color: #005F8F;
+    border-radius: 10px;
+    color: black ;
+    background-color: white;
+   
+}
+.fonttitle {
+    font-size: 20px;
+}
+.fonttest {
+    font-size: 20px;
+}
+.dancingscript {
+    font-family: 'Dancing Script', cursive;
+}
+.zillaslab {
+    font-family: 'Zilla Slab', serif;
+}
+.marcellus {
+    font-family: 'Marcellus', serif;
+}
+.neucha {
+    font-family: 'Neucha', cursive;
+}
+.kuralevanilla {
+    font-family: 'Kurale', serif;
+}
+.vanilla {
+    font-family: 'Aleo', serif;
+}
+.volkhov {
+    font-family: 'Volkhov', serif;
+}
+.noto {
+    font-family: 'Noto', serif;
+}
+.bengali {
+    font-family: 'Noto Sans Bengali', sans-serif;
+}
+.sorts {
+    font-family: 'Sorts Mill Goudy', serif;
+}
+.bitter {
+    font-family: 'Bitter', serif;  
+}
+.eb {
+    font-family: 'Bitter', serif;
+}
+.crimson {
+    font-family: 'Crimson Text', serif;
+}
+.domine {
+    font-family: 'Domine', serif;
+}
+.petrona {
+    font-family: 'Petrona', serif;
+}
